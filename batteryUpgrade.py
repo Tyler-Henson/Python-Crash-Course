@@ -3,7 +3,7 @@ Problem 9-9 of Python Crash Course
 """
 
 
-class Car():
+class Car:
     """A simple attempt to represent a car."""
 
     def __init__(self, make, model, year):
@@ -29,7 +29,7 @@ class Car():
             print("You can't roll back an odometer!")
 
 
-class Battery():
+class Battery:
     """A simple attempt to model a battery for an electric car"""
 
     def __init__(self, battery_size=70):

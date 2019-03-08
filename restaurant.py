@@ -1,6 +1,8 @@
 """
 Problem 9-1 of Python Crash Course
 """
+
+
 class Restaurant:
     """A simple restaurant model"""
 

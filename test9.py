@@ -61,11 +61,11 @@ if __name__ == '__main__':
     my_ear = Ears()
     my_ear.describe_hearing_ability()
 
-    #my_cat.sit()
-    #my_cat.lick_self()
+    # my_cat.sit()
+    # my_cat.lick_self()
 
-    #my_mech.aim_gun()
-    #my_mech.shoot()
+    # my_mech.aim_gun()
+    # my_mech.shoot()
 
     my_kitten = Kitten("sassy", 1)
     my_kitten.ears.hearing_ability = False

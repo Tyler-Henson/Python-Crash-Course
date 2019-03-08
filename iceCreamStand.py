@@ -19,7 +19,6 @@ class IcecreamStand(Restaurant):
             print("Sorry, we don't have any flavors at all!")
 
 
-
 if __name__ == '__main__':
     flavors = ['vanilla', 'chocolate', 'strawberry']
     my_shop = IcecreamStand("tix-ice", 'ice-cream shop')
