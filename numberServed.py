@@ -1,7 +1,7 @@
 """
 Problem 9-4 of Python Crash Course
 """
-"""Importing Restaurant class (includes methods and attributes"""
+# Importing Restaurant class (includes methods and attributes
 from numberServed2 import *
 
 

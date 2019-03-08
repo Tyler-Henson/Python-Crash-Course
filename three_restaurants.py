@@ -1,8 +1,8 @@
 """
 Problem 9-2 of Python Crash Course
 """
-#from restaurant import *
-#import restaurant
+# from restaurant import *
+# import restaurant
 r = __import__("restaurant")
 
 if __name__ == '__main__':

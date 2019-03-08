@@ -1,6 +1,8 @@
 """
 Problem 9-3 of Python Crash Course
 """
+
+
 class user:
 
     def __init__(self, first_name, last_name, age, sex,):
@@ -19,6 +21,7 @@ class user:
     def greet_user(self):
         print("Hello, " + self.first_name + ' ' +
               self.last_name)
+
 
 if __name__ == '__main__':
     me = user('tyler', 'henson', '27', 'm')
