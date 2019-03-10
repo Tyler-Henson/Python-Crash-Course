@@ -1,0 +1,16 @@
+Index: test9.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- test9.py	(revision f2364ae33fead38424b8cb9cf2e55262ba884e36)
++++ test9.py	(date 1552180768063)
+@@ -34,7 +34,7 @@
+         print("This cat has " + str(self.hearing_ability) + " hearing.")
+ 
+ 
+-class mech():
++class mech:
+     """A simple battle mech"""
+ 
+     def __init__(self, model, height):

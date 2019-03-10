@@ -34,7 +34,7 @@ class Ears():
         print("This cat has " + str(self.hearing_ability) + " hearing.")
 
 
-class mech():
+class mech:
     """A simple battle mech"""
 
     def __init__(self, model, height):
