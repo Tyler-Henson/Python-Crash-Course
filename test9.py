@@ -1,4 +1,4 @@
-class Cat():
+class Cat:
     """Simple model of a cat"""
 
     def __init__(self, name, age):
