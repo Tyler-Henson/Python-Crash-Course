@@ -28,6 +28,6 @@ if __name__ == '__main__':
     me.greet_user()
     me.describe_user()
 
-    him = user('anthony', 'morast', '27', 'm')
+    him = user('anthony', 'm', '27', 'm')
     him.greet_user()
     him.describe_user()

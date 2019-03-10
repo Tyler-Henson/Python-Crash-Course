@@ -21,6 +21,6 @@ if __name__ == '__main__':
     print(me.login_attempts)
 
     print()
-    him = lA2.User('anthony', 'morast', '27', 'm')
+    him = lA2.User('anthony', 'm', '27', 'm')
     him.greet_user()
     him.describe_user()
