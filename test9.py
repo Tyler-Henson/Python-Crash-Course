@@ -56,6 +56,7 @@ class mech():
 
 
 if __name__ == '__main__':
+    '''
     my_cat = Cat('houdini', 8)
     my_mech = mech('ragnarok', '12m')
     my_ear = Ears()
@@ -74,3 +75,12 @@ if __name__ == '__main__':
     if my_kitten.smol:
         print(my_kitten.name + " is smol")
     my_kitten.ears.describe_hearing_ability()
+    '''
+
+
+    from car import Car as c
+    my_new_car = c('audi', 'a4', 2016)
+    print(my_new_car.get_descriptive_name())
+
+    my_new_car.odometer_reading = 23
+    my_new_car.read_odometer()
